@@ -72,7 +72,12 @@
 
 ---
 
+## ✈️ Landing Page
+https://anyhow-client.vercel.app/aboutus
+<br>
+Please note that the sign-up and login do not work any more due to the expiration of project-related keys.
 
+---
 ## 🧰 Tech Stack
 <img width="1207" alt="Screenshot 2025-05-18 at 4 05 48 PM" src="https://github.com/user-attachments/assets/50c78a99-38f9-410c-9e8b-5793b6072a72" />
 
